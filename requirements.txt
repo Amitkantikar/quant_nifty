@@ -5,3 +5,4 @@ lightgbm
 joblib
 statsmodels
 pyyaml
+pyarrow
